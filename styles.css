@@ -1,0 +1,41 @@
+h1{
+    color: red;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+#h5one{
+    color: darkgray;
+    background-color: red;
+    text-align: center;
+}
+
+#pone{
+    color: forestgreen;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#h5two{
+    color: darkgray;
+    background-color: red;
+    text-align: center;
+}
+
+#ptwo{
+    color: forestgreen;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#h5three{
+    color: lightblue;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+#pthree{
+    color: purple;
+    background-color: lightgreen;
+    text-align: center;
+}
